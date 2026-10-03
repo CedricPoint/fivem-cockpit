@@ -1,5 +1,7 @@
 # cockpit
 
+**English** · [Français](README.fr.md)
+
 **Vehicle controls for FiveM that work on any server.** Doors, windows, seats,
 engine, turn signals and cruise control — no framework, no dependency, no
 database, four files.
